@@ -29,3 +29,8 @@ int y = area<double>(5.50,14.70)
 
 Objects that handle a collection of other objects (elements) implementing a well-defined data structure.
 E.g., vectors,stacks,queues,maps,pairs.
+
+- Sequence: vector, stack, queue, list, dequeue, O(n), O(log n)
+- Associative
+  - Ordered: balanced binary, set, map, multimap, multisets, O(log n)
+  - Unordered: Hash Table, O(1)
