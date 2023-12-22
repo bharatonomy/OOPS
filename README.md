@@ -13,6 +13,12 @@ Flow chart/Pseudocode are useful as rough work.
 
 ![](/assets/image/introexp)
 
+## Structure
+
+[Basics of C++]()
+[Encapsulation]()
+[Basics of C++]()
+
 ### Flowchart:
 
 Diagramatical form of the program.

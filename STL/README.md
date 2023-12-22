@@ -31,6 +31,22 @@ Objects that handle a collection of other objects (elements) implementing a well
 E.g., vectors,stacks,queues,maps,pairs.
 
 - Sequence: vector, stack, queue, list, dequeue, O(n), O(log n)
-- Associative
+- Container Adapters:
+- Associative:
   - Ordered: balanced binary, set, map, multimap, multisets, O(log n)
   - Unordered: Hash Table, O(1)
+
+## Array
+
+Elements of similar type stored in a continous memory allocation.
+In STL array is static.
+Some methods provided in STL array are:
+
+1. **arr.at(_index_) :** To get the value using the index.
+2. **arr.empty() :** To check whether array is empty or not. Returns True or False.
+3. **arr.front() :** To check the first element of array.
+4. **arr.back() :** To check the last element of array.
+
+## Vector
+
+Vector works similar to dynamic array.
