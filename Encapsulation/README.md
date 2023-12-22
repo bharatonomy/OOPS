@@ -2,7 +2,7 @@
 
 Wrapping up data members and functions.
 
-![](../assets/image/encapsulation.png)
+![](../assets/image/encapsulation)
 
 ### Full Encapsulated Class:
 
