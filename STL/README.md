@@ -50,3 +50,14 @@ Some methods provided in STL array are:
 ## Vector
 
 Vector works similar to dynamic array.
+
+Some methods in Vector STL are:
+
+1.  **vec.capacity() :** Tells the capacity of the vector to store the elements. Memory occupied.
+2.  **vec.push_back(element) :** Pushes the element in the vector from the rear end.
+3.  **vec.at(_index_) :** Element at the given index.
+4.  **vec.front() :** Element at the front end.
+5.  **vec.back() :** Element at the rear end.
+6.  **vec.pop_back() :** Delete from the rear end.
+7.  **vec<int> name(size,initial_value) :** To initialize the whole vector with singular value.
+8.  **vec<int> name(copy_vector) :** To copy the vector properties to another vector.
