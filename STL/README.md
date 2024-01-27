@@ -61,3 +61,26 @@ Some methods in Vector STL are:
 6.  **vec.pop_back() :** Delete from the rear end.
 7.  **vec<int> name(size,initial_value) :** To initialize the whole vector with singular value.
 8.  **vec<int> name(copy_vector) :** To copy the vector properties to another vector.
+
+## Deque
+
+Doubly ended queue.
+
+## List
+
+Made using Doubly Linked List
+It stores address of previous node, next node and value in a node.
+
+Time complexity of every function is O(1) except erase() which has O(n).
+
+## Stack
+
+## Queue
+
+## Priority Queue
+
+## Set
+
+## Map
+
+## STL Algorithms
