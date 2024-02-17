@@ -57,3 +57,26 @@ int main()
 ### Copy Constructor
 
 Copying the properties of one constructor to another.
+
+Pass the reference to Constructor as it is more efficient.
+
+A Shallow copy is just a reference to the original class. Both the classes have same address.
+
+While a Deep copy makes a new duplicate class. The address of this class is different from that of original class.
+
+### Copy Assignment Operator
+
+Just simply assign the values like
+
+```c++
+a.health = b.health
+```
+
+### Static Data Member
+
+A static data member can be used without creating an instance of the parent object.
+It belongs to the class and not to the object. Thats why it is recommended to access it differently.
+
+The situation is same for Static Data Functions. They dont have this keyword.
+
+Static functions can only access static variables directly.
