@@ -38,3 +38,7 @@ NOTE: private data member of any class cannot be accessed.
 
 Also, protected is similar to private. The protected members can be accessed by the base class and its derived/sub-class.\
 While private can only be accessed using base class.
+
+## Inheritance Ambiguity
+
+Use scope Resolution Opertor :: at the time of ambiguity.
