@@ -75,12 +75,32 @@ Time complexity of every function is O(1) except erase() which has O(n).
 
 ## Stack
 
+LIFO
+
 ## Queue
+
+FIFO
 
 ## Priority Queue
 
+Max or Min value as per specified will be at the top of the heap.
+
 ## Set
 
+Doesnt considers multiple occurence of same element.
+insert,find,erase,count --> O(log n)
+size,begin,end,empty --> O(n)
+
 ## Map
+
+Key-value pairs
+
+keys are unique. many to one but \
+not one to many.
+
+insert,find,erase,count --> O(log n)
+
+Red-Black or Balanced tree is used in this ordered map which makes it complexity as such
+In unorderd map the implementation is done using hash tables and the complexity at time is O(1)
 
 ## STL Algorithms
